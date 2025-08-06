@@ -12,3 +12,8 @@ Se pueden ingresar múltiples alumnos, cada uno con varios cursos, y la informac
 ## Cómo ejecutar
 1. Compilar con g++
 2. Ejecutar en terminal
+   
+## Notas
+- Las funciones `mostrar_datos()` y `leer_archivo()` están incluidas pero **comentadas en el `main()`**.
+- Esto es para enfocarse en la parte de carga de datos y escritura en archivo.
+- Se pueden activar fácilmente descomentando las líneas en `main()` si se desea ver los datos o leer el archivo generado.
